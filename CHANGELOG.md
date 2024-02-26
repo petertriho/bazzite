@@ -1,5 +1,14 @@
 # Changelog
 
+## [2.3.1](https://github.com/ublue-os/bazzite/compare/v2.3.0...v2.3.1) (2024-02-26)
+
+
+### Bug Fixes
+
+* **deck:** Correct the default display scale on KDE images ([c86fc7d](https://github.com/ublue-os/bazzite/commit/c86fc7dbd7274c9277b4675390469a2e75f2a049))
+* distrobox-export ([#803](https://github.com/ublue-os/bazzite/issues/803)) ([55cf1cb](https://github.com/ublue-os/bazzite/commit/55cf1cb3b5df85b4f1845ed7293f2da0e5842811))
+* **readme:** Bold ([7c35c11](https://github.com/ublue-os/bazzite/commit/7c35c11ebe9624309ea1cedea6efa0d8b24db74f))
+
 ## 2.3.0 (2024-02-23)
 
 
